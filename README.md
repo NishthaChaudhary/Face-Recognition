@@ -53,12 +53,15 @@ Manipulate the image by applying makeup:
 ## 4. Fimd the similar looking person:
 
 Image that was known:
+
 ![image](https://user-images.githubusercontent.com/54689111/82641949-22ab0d80-9bdb-11ea-92d5-61139fd9bde3.png)
 
 This image was passed through a set of 1000 images and a similar looking person's image is displayed:
+
 ![image](https://user-images.githubusercontent.com/54689111/82642116-6b62c680-9bdb-11ea-886f-0decca4481fe.png)
 
 Display the picture of the similar looking person:
+
 ![image](https://user-images.githubusercontent.com/54689111/82642185-86353b00-9bdb-11ea-9c40-b9a5ec9e152c.png)
 
-""OHH!! THAT'S ME..:)
+## ""OHH!! THAT'S ME..:)
