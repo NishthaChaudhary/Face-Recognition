@@ -3,7 +3,7 @@
 
 ## Find faces in the image.
 
-# Import packages and libraries
+# Import packages  and libraries
 import PIL.Image
 import PIL.ImageDraw
 import PIL.ImageFont
