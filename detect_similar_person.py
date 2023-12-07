@@ -1,6 +1,6 @@
 #Let's find the similar looking person!!
 
-#Pass a person's image over a set of images to find the similar looking person.
+#Pass a person's image over a set of  images to find the similar looking person.
 
 #Display the known image
 
