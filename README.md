@@ -1,5 +1,5 @@
 # Face-Recognition System
-This face recognition system detects faces in the image, their facial features, identifies the known person. This system also applies makeup to the faces detected in the image. Additionally, this will find a similar face for a given image from a set of images.
+This face recognition system detects faces in the image, their facial features, identifies  the known person. This system also applies makeup to the faces detected in the image. Additionally, this will find a similar face for a given image from a set of images.
 
 "" Have you ever wondered how Facebook identifies who's in your photos without you even having  tag anyone?? This is Face Recognition Technique. This system includes all steps of face recognition process. Then, it creates and implements a cutting edge face recognition system that you can reuse in further projects. Finally, face recognition will be applied to a variety of situations and projects""
 
